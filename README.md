@@ -1,5 +1,5 @@
 ## Face Recognition
-It is one of the many wonders that AI research has brought forward to the world. A technology capable of verifying a person from a digital image or a video frame from a video     source. Generally, they work by comparing selected facial attributes from given image with faces within a database (unknown folder). 
+It is one of the many wonders that AI research has brought forward to the world. A technology capable of verifying a person from a digital image or a video frame from a video     source. Generally, they work by comparing selected facial attributes from given image with faces within a database (img/unknown). 
 
 ### Installation
 ___
